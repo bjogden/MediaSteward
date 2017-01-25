@@ -1,0 +1,1 @@
+This process constantly runs and processes messages from SQS. It downloads media content and saves the MP3 file to S3.
