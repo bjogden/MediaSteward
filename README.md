@@ -6,7 +6,8 @@ Allow for messaging to a background process that downloads media files (from You
 
 Potential tools:
 - [AWS S3](https://aws.amazon.com/s3/) - storage of media files
-- [pytube API](https://github.com/nficano/pytube) - downloading YouTube media
+- [youtube-dl](http://rg3.github.io/youtube-dl/) - downloading media (from YouTube)
+- ~~[pytube API](https://github.com/nficano/pytube) - downloading YouTube media~~ throws age restriction error on random videos
 
 Challenges:
 - How to dynamically download media from the "private storage" directly into mobile device's music library?
