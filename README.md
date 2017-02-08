@@ -17,5 +17,6 @@ Challenges:
 - What will be used for messaging to the background process?
 
 Install (Mac):
+
 1. `brew install libav`
 2. `pip3 install -r requirements.pip`
