@@ -1,7 +1,10 @@
 # Project-specific
-videos/
+*/media/
+*/config.py
 config.py
 aws_access.txt
+
+.idea/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
